@@ -77,3 +77,132 @@ header h1 {
     margin-right: auto;
     max-width: 600px;
 }
+
+.title-box h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 100px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.main-heading a {
+    text-decoration: none;
+    background-color: #eb7d4b;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    padding: 25px 85px;
+    border-radius: 5px;
+    border-bottom: 4px solid #c86a40;
+}
+
+header h1 {
+    color: white;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+#section-2 {
+    background-color: #17c2a4;
+    min-height: 800px;
+    color: white;
+}
+
+
+.title-box {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 600px;
+}
+
+.title-box h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding-top: 100px;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#section-3 {
+    background-color: #3c5499;
+    color: white;
+}
+
+.contact-form {
+    max-width: 860px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-row {
+    display: flex;
+}
+
+input[type="text"],
+input[type="email"],
+{
+width: 46%;
+height: 56px
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    background-color: #273a71;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding-left: 25px;
+    font-size: 18px;
+}
+
+
+textarea {
+    height: 200px;
+    width: 100%;
+    padding-top: 25px;
+    margin-top: 15px;
+}
+
+input[type="submit"] {
+    background-color: #30bae7;
+    border: none;
+    color: white;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-top: 60px;
+    padding: 25px 85px;
+    border-radius: 4px solid #299ec5;
+}
+
+footer{
+    background-color: #344b8e;
+}
+
+.footer-links{
+    max-width: 970px;
+    margin:0 auto;
+}
+
+.footer-links ul{
+    display: flex;
+    margin: 0;
+    padding: 25px 0;
+    list-style: none;
+}
+
+.footer-links ul li{
+    padding:10px 20px;
+}
+
+.footer-links ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
